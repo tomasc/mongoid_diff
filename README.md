@@ -21,6 +21,8 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
+require 'mongoid/diff'
+
 class MyMongoidModel
   include Mongoid::Document
   field :name, type: String
