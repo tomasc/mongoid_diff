@@ -6,7 +6,7 @@ require 'mongoid/diff/version'
 Gem::Specification.new do |spec|
   spec.name          = "mongoid-diff"
   spec.version       = MongoidDiff::VERSION
-  spec.authors       = ["Tomas Celizna", "Asger Behncke Jacobsen"]
+  spec.authors       = ["Tomáš Celizna", "Asger Behncke Jacobsen"]
   spec.email         = ["tomas.celizna@gmail.com", "asger@8kilo.com"]
 
   spec.summary       = %q{Service producing diff of two Mongoid models.}
