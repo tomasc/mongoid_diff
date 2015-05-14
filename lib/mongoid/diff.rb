@@ -1,5 +1,7 @@
 require "mongoid/diff/version"
 
-class Mongoid::Diff
-  # Your code goes here...
+module Mongoid
+  class Diff
+    # Your code goes here...
+  end
 end

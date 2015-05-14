@@ -1,3 +1,5 @@
-class Mongoid::Diff
-  VERSION = "0.1.0"
+module Mongoid
+  class Diff
+    VERSION = "0.0.1"
+  end
 end
