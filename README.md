@@ -1,4 +1,4 @@
-# Mongoid diff
+# Mongoid::Diff
 
 **WORK IN PROGRESS**
 
